@@ -26,7 +26,7 @@
    - Клонируйте репозиторий на свой компьютер:
 
      ```bash
-     git clone [https://github.com/your_username/active-directory-toolbox.git](https://github.com/Jespway/ADToolKit.git)
+     git clone https://github.com/Jespway/ADToolKit.git
      ```
 
 3. **Использование**
