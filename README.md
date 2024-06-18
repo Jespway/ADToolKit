@@ -1,4 +1,5 @@
 Active Directory Management Toolbox
+
 Этот проект представляет собой набор скриптов PowerShell и интерфейса пользователя для управления компонентами Active Directory (AD). Включает функции сбора информации о компьютерах и пользователях, выполнения пинга IP-адресов с записью результатов в файл, а также отключения старых компьютерных учетных записей в зависимости от выбранного периода.
 
 Функциональность
@@ -25,20 +26,20 @@ PowerShell 5.1 или выше.
 
 bash
 Copy code
-git clone https://github.com/Jespway/ADToolKit.git
+git clone https://github.com/your_username/active-directory-toolbox.git
 Перейдите в каталог проекта:
 
 bash
 Copy code
-cd ADToolKit
+cd active-directory-toolbox
 Использование
 Запуск интерфейса
 
-Запустите скрипт ADToolKit.ps1 с помощью PowerShell:
+Запустите скрипт PS_script_v1.ps1 с помощью PowerShell:
 
 bash
 Copy code
-powershell.exe -File ADToolKit.ps1
+powershell.exe -File H:\PS_script_v1.ps1
 Используйте интерфейс для выбора необходимых операций: сбор информации о ПК и пользователях, пинг IP-адресов, отключение старых компьютерных учетных записей.
 
 Настройка параметров
